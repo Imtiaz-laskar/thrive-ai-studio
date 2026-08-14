@@ -39,4 +39,4 @@ It helps tech companies test, verify, and prove that their AI products are safe 
 > - The internal algorithm code, AI model weights, and database secrets are kept private to protect intellectual property.
 > - Unauthorized copying, commercial reuse, or cloning of this concept is strictly prohibited.
 >
-> **For Inquiries & Licensing:** Contact Imtiaz Laskar at `imtiaz.laskar96@gmail.com`.
+> **For Inquiries & Licensing:** Contact Imtiaz Laskar at 'imtiazh526@gmail.com'.
