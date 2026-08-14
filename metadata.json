@@ -1,0 +1,6 @@
+{
+  "name": "ThriveSafe - Child Safety & Wellbeing AI Operating Framework",
+  "description": "Comprehensive enterprise Child Safety, Privacy & AI Governance Operating Framework aligned with DPDP Act 2023, IT Rules 2021, NCPCR & UNCRC for India AI product ecosystems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
